@@ -2,7 +2,7 @@
 This project is a demo of a search feature based on MongoDB's full-text-search, built on top of MeteorJS framework.
 
 ### Installation steps
-1. Edit your mongodb.conf file to looks something like this:
+1. Edit your mongodb.conf file *(on Linux it is found at /etc/mongodb.conf)* to looks something like this:
 ```
 bind_ip = 127.0.0.1
 quiet = true
